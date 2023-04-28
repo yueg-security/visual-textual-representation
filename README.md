@@ -1,1 +1,1 @@
-# visual-textual-representation-steganography
+# visual-textual-representation
